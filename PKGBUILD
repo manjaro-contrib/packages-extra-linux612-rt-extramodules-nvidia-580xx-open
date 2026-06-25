@@ -7,7 +7,7 @@
 _linuxprefix=linux612-rt
 
 pkgname="${_linuxprefix}-nvidia-580xx-open"
-pkgver=580.159.04
+pkgver=580.173.02
 pkgrel=1
 pkgdesc="NVIDIA open kernel modules for ${_linuxprefix}"
 arch=('x86_64')
